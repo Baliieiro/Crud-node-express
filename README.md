@@ -18,13 +18,13 @@ Instalação
     
     bashCopy code
     
-    `git clone https://github.com/Baliieiro/delivery-express.git`
+    `git clone https://github.com/Baliieiro/Crud-node-express.git`
     
 2.  Navegue até o diretório do projeto:
     
     bashCopy code
     
-    `cd delivery-express`
+    `cd Crud-node-express`
     
 3.  Instale as dependências:
     
@@ -46,8 +46,6 @@ Acesse a aplicação no navegador em `http://localhost:3000`.
 Rotas
 -----
 
-*   `GET /`: Página inicial do serviço de delivery.
-*   `GET /cardapio`: Exibe o cardápio de pratos disponíveis.
 *   `GET /order`: Lista todos os pedidos já feitos.
 *   `POST /order`: Cria um novo pedido.
 *   `GET /order/:id`: Retorna um pedido específico.
