@@ -16,19 +16,13 @@ Instalação
 
 1.  Clone o repositório:
     
-    bashCopy code
-    
     `git clone https://github.com/Baliieiro/Crud-node-express.git`
     
 2.  Navegue até o diretório do projeto:
     
-    bashCopy code
-    
     `cd Crud-node-express`
     
 3.  Instale as dependências:
-    
-    bashCopy code
     
     `npm install`
     
